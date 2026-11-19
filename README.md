@@ -6,15 +6,15 @@ I’m a developer passionate about CS and UX, currently based in Perth.
 
 <div align="center">
     <div>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dzx1025&theme=github" alt="GitHub Stats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vulpsecula&theme=github" alt="GitHub Stats"/>
     </div>
     <div>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzx1025&theme=github" alt="Top Languages"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzx1025&theme=github" alt="Stats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vulpsecula&theme=github" alt="Top Languages"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vulpsecula&theme=github" alt="Stats"/>
     </div>
 </div>
 
-![Views](https://komarev.com/ghpvc/?username=dzx1025&style=flat&color=023373)
+![Views](https://komarev.com/ghpvc/?username=vulpsecula&style=flat&color=023373)
 
 <h2 align="center"> 💻 Technical Skills </h2>
 
@@ -80,7 +80,7 @@ I’m a developer passionate about CS and UX, currently based in Perth.
     <img src="https://img.shields.io/badge/Email-zexuding1025@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email Badge 2">
   </a>
   &nbsp;
-  <a href="https://dzx1025.github.io/">
+  <a href="https://vulpsecula.com/">
     <img src="https://img.shields.io/badge/Website-Zeke's%20Blog-blue?style=for-the-badge&logo=blogger&logoColor=white&color=black" alt="Website Badge">
   </a>
 </p>
